@@ -16,7 +16,7 @@ public class Main {
         Vaga vagaNormal = new Vaga(TipoVaga.NORMAL);
         Vaga vagaCoberta = new Vaga(TipoVaga.COBERTA);
 
-        // Lista de Vagas para o Estacionamento
+        // Lista de Vagas para o Estacionamento.
         List<Vaga> vagas = new ArrayList<>();
         vagas.add(vagaNormal);
         vagas.add(vagaCoberta);
