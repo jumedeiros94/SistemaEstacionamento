@@ -39,14 +39,14 @@ Este é um projeto simples de um sistema de estacionamento em Java que atende ao
 
 # Enums
 
-## TipoDeVaga
+### TipoDeVaga
 
 O Enum `TipoDeVaga` representa os dois tipos de vagas disponíveis no estacionamento:
 
 - **NORMAL:** Representa uma Vaga Normal com preço base de R$15.00 por hora.
 - **COBERTA:** Representa uma Vaga Coberta com preço base de R$30.00 por hora.
 
-## Plano
+### Plano
 
 O Enum `Plano` é utilizado para definir o tipo de plano associado a um veículo:
 
